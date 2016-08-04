@@ -1,0 +1,30 @@
+_repo: When-God-Laughs-and-Other-Stories_2545
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+- GITenberg
+tableOfContents: When God laughs -- The apostate -- A wicked woman -- Just meat --
+  Created He them -- The Chinago -- Make westing -- Semper idem -- A nose for the
+  king -- The "Francis Spaight" -- A curious fragment -- A piece of steak
+title: When God Laughs, and Other Stories
+url: http://www.gutenberg.org/ebooks/2545
